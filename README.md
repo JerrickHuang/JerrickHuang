@@ -13,7 +13,7 @@ CS post-baccalaureate student in Taiwan, building practical web applications, da
 
 - **Portfolio** — Personal software engineering portfolio and project index.
 - **Taiwan Chicken Cutlet Price Tracker** — Searchable records, price trend visualization, and source-aware data collection.
-- **Salary Demo** — Frontend data visualization demo for filtering and chart presentation.
+- **Java Task Tracker** — A small Java 21 command-line task tracker built to practice object-oriented programming and input handling.
 
 ## Contact
 
