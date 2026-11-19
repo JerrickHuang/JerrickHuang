@@ -1,20 +1,7 @@
-# Hi, I’m Jerrick Huang
+# Jerrick Huang
 
-CS post-baccalaureate student in Taiwan, building practical web applications, data tools, and backend systems.
+I’m completing the post-baccalaureate program in computer science at Feng Chia University in Taiwan and looking for an entry-level software engineering role. My coursework has included Java, web development, and software testing.
 
-## Current focus
+我目前就讀逢甲大學資訊工程學系學士後專班，正在準備應徵初階軟體工程職缺。修課期間接觸了 Java、網頁開發與軟體測試。
 
-- Full-stack web applications
-- Data visualization and source-aware datasets
-- Backend APIs and database-backed tools
-- Testing, security, and maintainable software design
-
-## Selected projects
-
-- **Portfolio** — Personal software engineering portfolio and project index.
-- **Taiwan Chicken Cutlet Price Tracker** — Searchable records, price trend visualization, and source-aware data collection.
-- **Java Gradebook Analyzer** — Java 21 command-line gradebook analyzer with class average, highest/lowest score, and pass/fail summary.
-
-## Contact
-
-- Portfolio: https://jerrickhuang.github.io/
+[Personal site｜個人網站](https://jerrickhuang.github.io/)
